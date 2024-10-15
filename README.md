@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🥳🥳
 
-<!--
-**1DMariaJuliaTS/1DMariaJuliaTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Julia
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem HTML e JavaScript
+- Utilizo esta página com o intuito de organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Caso tenho alguma dúvida, pode entrar em contato comigo pelo e-mail 📧
+
+maria.juliatimoteo.santana@escola.pr.gov.br
+
+![astro-cha-eunwoo](https://github.com/user-attachments/assets/8dbdfe34-cbbd-4f21-a936-d9b6176f32d1)
